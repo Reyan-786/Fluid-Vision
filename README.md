@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Usage
 ```bash
-streamlit run --server.runOnSave True app.p
+streamlit run --server.runOnSave True app.py
 ```
 
 ## Development
